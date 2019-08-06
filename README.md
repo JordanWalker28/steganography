@@ -1,6 +1,6 @@
 # steganography
 
-Small project created for one of my University courseworks. The program takes in a PPM image and offers a prompt in the terminal that allows for the user to enter a hidden message that can then be decrypted with the same program by making a comparison of the pixel values held in the image to the newly generated image. 
+The program takes in a PPM image and offers a prompt in the terminal that allows for the user to enter a hidden message that can then be decrypted with the same program by making a comparison of the pixel values held in the image to the newly generated image. 
 
 To run the program typical gcc -o steg2 steg2.c
 
